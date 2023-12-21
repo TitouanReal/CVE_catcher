@@ -22,7 +22,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
-            android:text="• This application is designed to keep track of import CVEs for your system"
+            android:text="• This application is designed to keep track of important CVEs for your system"
             android:textSize="16sp" />
 
         <TextView
@@ -36,18 +36,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
-            android:text="• Third line of text"
-            android:textSize="16sp" />
-
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="16dp"
             android:text="• Authors : Phengar, TReal"
             android:textSize="16sp" />
-
-
 
     </LinearLayout>
 
