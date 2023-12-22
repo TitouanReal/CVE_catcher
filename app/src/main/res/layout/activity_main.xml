@@ -22,9 +22,10 @@
         android:layout_width="match_parent"
         android:layout_height="50dp"
         app:layout_constraintBottom_toBottomOf="parent"
-        android:layout_gravity="bottom">
+        android:layout_gravity="bottom"
+        app:menu="@menu/bottom_menu"/>
 
-    <Button
+    <!--Button
         android:id="@+id/listButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -43,8 +44,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="end"
-        android:text="Info" />
-
-    </com.google.android.material.bottomnavigation.BottomNavigationView>
+        android:text="Info" /-->
 
 </androidx.constraintlayout.widget.ConstraintLayout>
